@@ -1,0 +1,8 @@
+require('options')
+require('plugins')
+require('colorSchema-config')
+require('treesitter-config')
+require('lualine-config')
+require('bufferline-config')
+require('nvim-tree-config')
+require('keymapping')
